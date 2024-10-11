@@ -23,7 +23,7 @@ This project is a **classic Snake game** implemented in **Python**, built withou
 
 2. **Clone the repository**:
    
-   git clone https://github.com/tomwooly/snake-game.git
+   git clone  https://tomwooly.github.io/snake_game/
 
 3. **Navigate to the project directory**:
    
